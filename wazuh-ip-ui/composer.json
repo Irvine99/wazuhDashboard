@@ -1,0 +1,12 @@
+{
+  "name": "stan/wazuh-ip-ui",
+  "description": "Internal PHP/Tailwind UI using Wazuh Dashboard proxy",
+  "type": "project",
+  "license": "proprietary",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}

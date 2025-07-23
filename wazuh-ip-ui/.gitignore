@@ -1,0 +1,6 @@
+/vendor/
+/storage/cache/*.json
+/storage/cache/*.log
+/.env
+/.idea/
+/.vscode/
